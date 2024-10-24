@@ -1,3 +1,3 @@
 # strings-to-morse-code-project
 
-![image](https://github.com/user-attachments/assets/eac83214-2d1a-4f7a-ac40-088680bdce12)
+<img width="522" alt="Screenshot 2024-10-24 at 21 49 31" src="https://github.com/user-attachments/assets/1e0c1f52-7624-4172-b44c-2236cca74bbd">
