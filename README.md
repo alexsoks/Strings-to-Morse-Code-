@@ -1,3 +1,3 @@
-# strings-to-morse-code-project
+# Strings to Morse Code
 
 
